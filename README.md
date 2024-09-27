@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on openai
 - 📫 How to reach me Development, Automation ,products
 - 😄 Pronouns: English, arabic, Malayalam
-- ⚡ Fun fact: Programming, Basketball, Music, learn and explor new thigs
+- ⚡ Fun fact: Programming, Basketball, Music, learn and explor new things
 
 <!---
 zahidkvtr/zahidkvtr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
